@@ -1,0 +1,38 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager/*
+!/Cinema Room Manager/task/
+/Cinema Room Manager/task/*
+!/Cinema Room Manager/task/src
+
+# Project exclude paths
+/Topics/Array/Initializing an array of characters/out/
+/Topics/Array/Initializing an array of characters/out/production/classes/
+/Topics/Break and continue. Branching/Bus tour/out/
+/Topics/Break and continue. Branching/Bus tour/out/production/classes/
+/Topics/Errors in programs/Validating and squaring user input/out/
+/Topics/Errors in programs/Validating and squaring user input/out/production/classes/
+/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/out/
+/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/The index of the first max in an array/out/
+/Topics/Iterating over arrays/The index of the first max in an array/out/production/classes/
+/Topics/Method  main/Count the number of characters in a given string/out/
+/Topics/Method  main/Count the number of characters in a given string/out/production/classes/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/production/classes/
+/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt/out/
+/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt/out/production/classes/
